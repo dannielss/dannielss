@@ -4,7 +4,7 @@
 
 <samp>I'm Daniel, a front-end developer :computer:</samp>
 
-<p><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="code gif" width="492" /></p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="code gif" width="492" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daniels887&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Stats" />
 
