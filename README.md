@@ -1,6 +1,6 @@
 <samp>Hi there 👋</samp>
 
-<img src="https://user-images.githubusercontent.com/58083563/89906168-6c473b00-dbc1-11ea-83ad-41fca6b49e5a.png" alt="Me" align="right" width="150" />
+<img src="https://user-images.githubusercontent.com/58083563/89906168-6c473b00-dbc1-11ea-83ad-41fca6b49e5a.png" alt="Me" align="right" width="350" />
 
 <img src="https://komarev.com/ghpvc/?username=Daniels887&color=brightgreen" alt="Daniels887" /> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=white&labelColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&labelColor=764ABC" alt="Jest" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC" alt="Typescript" /> <img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?logo=vue.js&logoColor=white&labelColor=4FC08D" alt="Vue" /> <img src="https://img.shields.io/badge/-Node-green?logo=node.js&logoColor=white&labelColor=green" alt="Node" /> <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress" /> <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&labelColor=C21325" alt="Jest" />
 
