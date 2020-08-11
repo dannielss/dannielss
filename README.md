@@ -6,7 +6,7 @@
 
 <samp>I'm Daniel, a front-end developer :computer:</samp>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daniels887&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Daniels887&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&hide=Java&layout=compact" />
 
