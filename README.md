@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daniels887&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Git Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&hide=Java&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&hide=Java,Ruby&layout=compact" />
 
 <samp>Want to know more about me :question:</samp>
 
