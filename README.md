@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&hide=Java&layout=compact" />
 
-<samp>Do you want to know more about me? </samp>
+<samp>Do you want to know more about me ? </samp>
 
   <a href="https://www.linkedin.com/in/daniel-sousa887/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="badge-linkedin"/></a>
   <a href="mailto:daniel_sousa.p@outlook.com"><img src="https://img.shields.io/badge/-daniel_sousa.p@outlook.com-054f77?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniel_sousa.p@outlook.com/" alt="badge-outlook"/></a>
