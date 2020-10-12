@@ -1,4 +1,4 @@
-<samp>Hi there 👋👋</samp>
+<samp>Hi there 👋</samp>
 
 <img src="https://user-images.githubusercontent.com/58083563/94339385-0592ab00-ffd0-11ea-9b42-b6168e911d64.png" alt="Me" width="250" align="right"/>
 
