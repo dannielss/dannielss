@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&hide=Java,HTML&layout=compact" />
 
 <samp>365 days of code challenge ✔️</h3>
-<img src="https://user-images.githubusercontent.com/58083563/112741369-a2240e80-8f5b-11eb-9f0d-702725c24189.png" alt="365 days" />
+<img src="https://user-images.githubusercontent.com/58083563/112741460-663d7900-8f5c-11eb-87f5-8cb78d913934.png" alt="365 days" />
  
 <samp>Do you want to know more about me ? </samp>
 
