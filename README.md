@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daniels887&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Git Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&hide=Java,HTML&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&layout=compact&hide=Java,HTML,CSS,Ruby,Objective-C&langs_count=8" />
 
 <samp>365 days of code challenge ✔️</h3>
 <img src="https://user-images.githubusercontent.com/58083563/112741460-663d7900-8f5c-11eb-87f5-8cb78d913934.png" alt="365 days" />
