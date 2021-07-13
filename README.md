@@ -9,7 +9,7 @@
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=Daniels887&count_private=true&show_icons=true&theme=tokyonight&&hide_title=true" alt="Git Stats"/>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matg0mes&langs_count=6&hide_border=true&hide=Java,HTML&layout=compact&theme=tokyonight" alt="matg0mes" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels887&langs_count=6&hide_border=true&hide=Java,HTML&layout=compact&theme=tokyonight" alt="matg0mes" />
 </p>
 
 
