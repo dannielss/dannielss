@@ -21,4 +21,3 @@
   <a href="https://www.linkedin.com/in/daniel-sousa887/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="badge-linkedin"/></a>
   <a href="mailto:daniel_sousa.p@outlook.com"><img src="https://img.shields.io/badge/-daniel_sousa.p@outlook.com-054f77?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniel_sousa.p@outlook.com/" alt="badge-outlook"/></a>
     <a href="https://medium.com/@Daniels887"><img src="https://img.shields.io/badge/Medium-12100E?&style=flat-square&logo=medium&logoColor=white" alt="badge-medium"/></a>
-  <a href="http://danielsousapereira.herokuapp.com/"><img src="https://img.shields.io/badge/-portfolio-430098?style=flat-square&logo=heroku" alt="badge-portfolio"/></a>
