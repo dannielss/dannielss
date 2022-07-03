@@ -8,12 +8,9 @@
 <samp>I really like to share knowledge and contribute to open-source.</samp>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannielss&theme=tokyonight&hide_border=true" alt="Daniels887" />
+<img src="https://github-readme-stats.vercel.app/api?username=dannielss&count_private=true&show_icons=true&theme=tokyonight&&hide_title=true" alt="Git Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielss&langs_count=6&hide_border=true&hide=Java,HTML,Ruby,Objective-C, SCSS&layout=compact&theme=tokyonight" alt="matg0mes" />
 
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=dannielss&count_private=true&show_icons=true&theme=tokyonight&&hide_title=true" alt="Git Stats"/>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielss&langs_count=6&hide_border=true&hide=Java,HTML,Ruby,Objective-C, SCSS&layout=compact&theme=tokyonight" alt="matg0mes" />
-</p>
  
 <samp>Do you want to know more about me? </samp>
 
