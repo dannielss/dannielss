@@ -5,9 +5,6 @@
 
 <samp>I'm Daniel, currently I'm working as a fullstack developer, I have over 6 years of experience with Golang, NodeJS, React JS, React Native and more.</samp>
 
-
-<samp>I really like to share knowledge and I'm always improving my skills.</samp>
-
 <!---<img src="https://github-readme-stats.vercel.app/api?username=dannielss&count_private=true&show_icons=true&theme=tokyonight&&hide_title=true" alt="Git Stats"/>!--->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielss&langs_count=6&hide_border=true&hide=Java,HTML,Ruby,scss,css&layout=compact&theme=tokyonight" alt="dannielss" />
 
