@@ -58,6 +58,6 @@ I'm a passionate software engineer with over **6 years of experience** building 
 ---
 
 ## 📫 Let's Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/spdaniel) | 🐦 [Instagram](https://instagram.com/dannielss.s) | 📧 **danielsp887@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/spdaniel) | 📷 [Instagram](https://instagram.com/dannielss.s) | 📧 **danielsp887@gmail.com**  
 
 💬 Always open to discussing new opportunities, collaborations, and tech ideas! 🚀  
