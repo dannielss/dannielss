@@ -33,10 +33,13 @@ I'm a passionate software engineer with over **6 years of experience** building 
 ---
 
 ## 🔥 Highlights  
-- 🔹 **Senior Software Engineer at Jobsity**, interviewer and technical evaluator  
-- 🔹 Developed an **AI assistant** and **ETA prediction system** for logistics  
-- 🔹 Transitioned from **Redis to MongoDB** for optimized flight data processing  
-- 🔹 Led the development of **Storybook documentation** for UI components  
+- 🔹 Senior Software Engineer at Jobsity – Lead technical interviews and contributed to key features like an AI assistant and ETA prediction for a global logistics platform.
+
+- 🔹 Founding Engineer at Traktive – Helped drive the company to its first $70k ARR by developing an AI assistant and ETA prediction system.
+
+- 🔹 Senior Software Engineer at PagBank – Developed a charge management system for internet banking, handling millions of dollars in transactions annually.
+
+- 🔹 Senior Software Engineer at StoreSpace – Led the creation of a design system with Storybook and transitioned the team to fullstack development with PHP and Laravel.
 
 ---
 
@@ -46,13 +49,15 @@ I'm a passionate software engineer with over **6 years of experience** building 
 ---
 
 ## 📌 Featured Projects  
-- 🛠 **[Project Name](#)** - Short description of what it does  
-- 🚀 **[Project Name](#)** - Another interesting project you've worked on  
-- 📡 **[Project Name](#)** - Cool tech or open-source contributions  
+- 🛠 URL Shortener – Backend service for generating and managing short URLs, built with performance and scalability in mind.
+
+- 🚀 File-to-Text Parser – A coding challenge solution that parses large files, enabling efficient filtering and content highlighting.
+
+- 📡 Redux Toolkit – Contributed to the open-source Redux Toolkit
 
 ---
 
 ## 📫 Let's Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/spdaniel) | 🐦 [Instagram](https://twitter.com/daniel) | 📧 **danielsp887@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/spdaniel) | 🐦 [Instagram](https://instagram.com/dannielss.s) | 📧 **danielsp887@gmail.com**  
 
 💬 Always open to discussing new opportunities, collaborations, and tech ideas! 🚀  
