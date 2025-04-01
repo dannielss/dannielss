@@ -1,16 +1,58 @@
-<samp>Hi there 👋</samp>
+# Hi there, I'm Daniel! 👋
 
-<img src="https://komarev.com/ghpvc/?username=Daniels887&color=brightgreen" alt="Daniels887" /> <img src="https://img.shields.io/badge/-Node.JS-green?logo=node.js&logoColor=white&labelColor=green" alt="Node" /> <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=FFF&labelColor=00ADD8" alt="Golang" /> <img src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=FFF&labelColor=4B275F" alt="Elixir" /> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=white&labelColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=white&labelColor=000000" alt="NextJS" /> <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&labelColor=764ABC" alt="Jest" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC" alt="Typescript" /> <img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?logo=vue.js&logoColor=white&labelColor=4FC08D" alt="Vue" />  <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress" /> <img src="https://img.shields.io/badge/-React Testing Library-E33332?logo=testinglibrary&logoColor=white&labelColor=E33332" alt="Cypress" /> <img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&labelColor=FF4785" alt="Cypress" /> <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&labelColor=C21325" alt="Jest" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=FFF&labelColor=326CE5" alt="Kubernetes" /> <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&labelColor=FF3E00" alt="Svelte" />  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=FFF&labelColor=777BB4" alt="PHP" /> <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=FFF&labelColor=FF2D20" alt="PHP" /> <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFF&labelColor=000" alt="Express" /> <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=FFF&labelColor=E0234E" alt="NestJS" />  <img src="https://img.shields.io/badge/-Apache Kafka-231F20?logo=apachekafka&logoColor=FFF&labelColor=231F20" alt="OpenTelemetry" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=FFF&labelColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFF&labelColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=FFF&labelColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FFF&labelColor=232F3E" alt="AWS" /> <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=FFF&labelColor=E6522C" alt="Prometheus" /> <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=FFF&labelColor=46800" alt="Grafana" /> <img src="https://img.shields.io/badge/-OpenTelemetry-000?logo=opentelemetry&logoColor=FFF&labelColor=000" alt="OpenTelemetry" /> <img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=FFF&labelColor=844FBA" alt="OpenTelemetry" />
- 
+### 🚀 Full-Stack Developer | Golang | Node.js | React | React Native
 
-<samp>I'm Daniel, currently I'm working as a fullstack developer with over 6 years of experience working with many languages such as: Golang, NodeJS, React JS, React Native and more.</samp>
+I'm a passionate software engineer with over **6 years of experience** building scalable and efficient applications. I specialize in backend and frontend development, working with technologies like **Golang, Node.js, React, React Native**, and more. I thrive in solving complex problems and optimizing systems for performance.
 
-<!---<img src="https://github-readme-stats.vercel.app/api?username=dannielss&count_private=true&show_icons=true&theme=tokyonight&&hide_title=true" alt="Git Stats"/>!--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielss&langs_count=6&hide_border=true&hide=Java,HTML,Ruby,scss,css&layout=compact&theme=tokyonight" alt="dannielss" />
+---
 
- 
-<samp>Do you want to know more about me? </samp>
+## 💡 Tech Stack  
 
-  <a href="https://www.linkedin.com/in/spdaniel/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="badge-linkedin"/></a>
-  <a href="mailto:daniel_sousa.p@outlook.com"><img src="https://img.shields.io/badge/-daniel_sousa.p@outlook.com-054f77?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniel_sousa.p@outlook.com/" alt="badge-outlook"/></a>
-    <a href="https://medium.com/@Daniels887"><img src="https://img.shields.io/badge/Medium-12100E?&style=flat-square&logo=medium&logoColor=white" alt="badge-medium"/></a>
+### 🖥️ Languages & Frameworks  
+<img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=FFF&labelColor=00ADD8" alt="Golang" /> <img src="https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" /> <img src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=FFF&labelColor=4B275F" alt="Elixir" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript" /> <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=FFF&labelColor=777BB4" alt="PHP" />
+
+### ⚛️ Frontend  
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&labelColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&labelColor=000000" alt="Next.js" /> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&labelColor=4FC08D" alt="Vue.js" /> <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&labelColor=FF3E00" alt="Svelte" /> <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&labelColor=764ABC" alt="Redux" /> <img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&labelColor=FF4785" alt="Storybook" />
+
+### 🔗 Backend  
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&labelColor=000000" alt="Express" /> <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&labelColor=E0234E" alt="NestJS" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL" /> <img src="https://img.shields.io/badge/-Apache Kafka-231F20?logo=apachekafka&logoColor=FFF&labelColor=231F20" alt="Kafka" /> <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=FFF&labelColor=00ADD8" alt="Gin Gonic" /> <img src="https://img.shields.io/badge/-Phoenix-4B275F?logo=phoenix&logoColor=white&labelColor=4B275F" alt="Phoenix" /> <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel" /> <img src="https://img.shields.io/badge/-gRPC-6DB33F?logo=grpc&logoColor=white&labelColor=6DB33F" alt="gRPC" /> <img src="https://img.shields.io/badge/-tRPC-2596be?logo=trpc&logoColor=white&labelColor=2596be" alt="tRPC" />
+
+### 🧪 Testing  
+<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&labelColor=C21325" alt="Jest" /> <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress" /> <img src="https://img.shields.io/badge/-React Testing Library-E33332?logo=testinglibrary&logoColor=white&labelColor=E33332" alt="React Testing Library" /> <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&labelColor=2EAD33" alt="Playwright" /> <img src="https://img.shields.io/badge/-TestCafe-FF7F50?logo=testcafe&logoColor=white&labelColor=FF7F50" alt="TestCafe" />
+
+
+### 🛢️ Databases  
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=FFF&labelColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=FFF&labelColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFF&labelColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&labelColor=4053D6" alt="DynamoDB" /> <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&labelColor=DC382D" alt="Redis" /> <img src="https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&labelColor=008CC1" alt="Neo4j" />
+
+### ☁️ Cloud & DevOps  
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FFF&labelColor=232F3E" alt="AWS" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=FFF&labelColor=326CE5" alt="Kubernetes" /> <img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=FFF&labelColor=844FBA" alt="Terraform" />
+
+### 📊 Monitoring & Logging  
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=FFF&labelColor=E6522C" alt="Prometheus" /> <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=FFF&labelColor=F46800" alt="Grafana" /> <img src="https://img.shields.io/badge/-OpenTelemetry-000?logo=opentelemetry&logoColor=FFF&labelColor=000" alt="OpenTelemetry" /> <img src="https://img.shields.io/badge/-New Relic-008C99?logo=newrelic&logoColor=FFF&labelColor=008C99" alt="New Relic" />
+
+---
+
+## 🔥 Highlights  
+- 🔹 **Senior Software Engineer at Jobsity**, interviewer and technical evaluator  
+- 🔹 Developed an **AI assistant** and **ETA prediction system** for logistics  
+- 🔹 Transitioned from **Redis to MongoDB** for optimized flight data processing  
+- 🔹 Led the development of **Storybook documentation** for UI components  
+
+---
+
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannielss&layout=compact&theme=radical)  
+
+---
+
+## 📌 Featured Projects  
+- 🛠 **[Project Name](#)** - Short description of what it does  
+- 🚀 **[Project Name](#)** - Another interesting project you've worked on  
+- 📡 **[Project Name](#)** - Cool tech or open-source contributions  
+
+---
+
+## 📫 Let's Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/spdaniel) | 🐦 [Instagram](https://twitter.com/daniel) | 📧 **danielsp887@gmail.com**  
+
+💬 Always open to discussing new opportunities, collaborations, and tech ideas! 🚀  
