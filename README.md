@@ -48,7 +48,10 @@ I'm a passionate software engineer with over **6 years of experience** building 
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
+
+- 📅 react-date-range-input – Open-source, highly customizable React component for selecting date ranges, featuring multi-calendar views, dynamic popup positioning, and full styling control.
+
 - 🛠 URL Shortener – Backend service for generating and managing short URLs, built with performance and scalability in mind.
 
 - 🚀 File-to-Text Parser – A coding challenge solution that parses large files, enabling efficient filtering and content highlighting.
