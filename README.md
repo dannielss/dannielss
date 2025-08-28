@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | Golang | Node.js | React | React Native
 
-I'm a passionate software engineer with over **6 years of experience** building scalable and efficient applications. I specialize in backend and frontend development, working with technologies like **Golang, Node.js, React, React Native**, and more. I thrive in solving complex problems and optimizing systems for performance.
+I'm a passionate software engineer with over **7 years of experience** building scalable and efficient applications. I specialize in backend and frontend development, working with technologies like **Golang, Node.js, React, React Native**, and more. I thrive in solving complex problems and optimizing systems for performance.
 
 ---
 
